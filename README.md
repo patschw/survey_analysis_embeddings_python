@@ -16,7 +16,6 @@ The repo contains two files:
 __Notes__:
 - Feel free to adapt the code to your needs!
 - We chose a small dataset for the sake of clarity. However, the code and methods can also be applied to bigger datasets.
-- The Juypter notebook contains some additional code (here marked as not to be rendered via the #-hashtag) you may find useful for running your own analyses (e.g., other libraries, other types of visualizations)
 
 When using the code, please cite our handbook contribution as follows:
 
