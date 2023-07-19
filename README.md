@@ -1,15 +1,22 @@
-# Analyzing textual data with word embeddings in Python
+# Python for Text-as-Data: Using Word Embeddings to Assess the Diversity of Election-Related Search Queries
 
-This is the repo that comes with a handbook article on computational text analysis with Python. We chose a small dataset for the sake of clarity. However, the code and methods can also be applied to bigger datasets.
+This is the Github repository as part of the handbook article on computational text analysis with Python: [Citation added upon acceptance]. 
 
-The repo provides a fully self-contained example of how to generate and cluster word embeddings of text data.
+The repo provides a fully self-contained example of how to generate and cluster word embeddings of text data, here search queries people would use on Google to stay informed on upcoming elections. All data and code are based on:
 
+Schwabl, P., Unkel, J., & Haim, M. (2023). Vielfalt bei Google? Vielzahl, Ausgewogenheit und Verschiedenheit wahlbezogener Suchergebnisse. In C. Holtz-Bacha (ed.), _Die (Massen-) Medien im Wahlkampf_ (p. 293–316). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-38967-3_11
+
+__Data__
 The repo contains two files:  
-**cluster_word_embeddings_example.ipynb**: The Juypter notebook with code to reproduce the handbook example yourself.  
-**survey_queries_cluster.csv**: The data needed to run the notebook.  
 
-Feel free to adapt the code to your needs!
+- __cluster_word_embeddings_example.ipynb__: The Juypter notebook with code to reproduce the handbook example.  
+__survey_queries_cluster.csv__: The data needed to run the notebook.  
 
-When using the code please cite our handbook contribution as follows:
+__Notes__:
+- Feel free to adapt the code to your needs!
+- We chose a small dataset for the sake of clarity. However, the code and methods can also be applied to bigger datasets.
+- The Juypter notebook contains some additional code (here marked as not to be rendered via the #-hashtag) you may find useful for running your own analyses (e.g., other libraries, other types of visualizations)
 
-ADD CITATION
+When using the code, please cite our handbook contribution as follows:
+
+[Citation added upon acceptance]
