@@ -6,7 +6,8 @@ The repo provides a fully self-contained example of how to generate and cluster 
 
 Schwabl, P., Unkel, J., & Haim, M. (2023). Vielfalt bei Google? Vielzahl, Ausgewogenheit und Verschiedenheit wahlbezogener Suchergebnisse. In C. Holtz-Bacha (ed.), _Die (Massen-) Medien im Wahlkampf_ (p. 293–316). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-38967-3_11
 
-__Data__
+__Data__:
+
 The repo contains two files:  
 
 - __cluster_word_embeddings_example.ipynb__: The Juypter notebook with code to reproduce the handbook example.  
