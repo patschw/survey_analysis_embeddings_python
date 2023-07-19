@@ -11,7 +11,7 @@ __Data__:
 The repo contains two files:  
 
 - __cluster_word_embeddings_example.ipynb__: The Juypter notebook with code to reproduce the handbook example.  
-__survey_queries_cluster.csv__: The data needed to run the notebook.  
+- __survey_queries_cluster.csv__: The data needed to run the notebook.  
 
 __Notes__:
 - Feel free to adapt the code to your needs!
