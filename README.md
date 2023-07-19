@@ -9,7 +9,9 @@ Schwabl, P., Unkel, J., & Haim, M. (2023). Vielfalt bei Google? Vielzahl, Ausgew
 The repo contains two files:  
 
 - __cluster_word_embeddings_example.ipynb__: The Juypter notebook with code to reproduce the handbook example.  
-- __survey_queries_cluster.csv__: The data needed to run the notebook.  
+- __survey_queries_cluster.csv__: The data needed to run the notebook.
+
+You can run the Notebook in Colab [here](https://drive.google.com/file/d/1MXGDe4TcKwaKtg3dt9EzhUBsi4Y-73TI/view?usp=sharing).
 
 __Notes__:
 - Feel free to adapt the code to your needs!
