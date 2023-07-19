@@ -5,8 +5,8 @@ This is the repo that comes with a handbook article on computational text analys
 The repo provides a fully self-contained example of how to generate and cluster word embeddings of text data.
 
 The repo contains two files:  
-**cluster_word_embeddings_example.ipynb**: The Juypter notebook with code to reproduce the handbook example yourself.
-**survey_queries_cluster.csv**: The data needed to run the notebook.
+**cluster_word_embeddings_example.ipynb**: The Juypter notebook with code to reproduce the handbook example yourself.  
+**survey_queries_cluster.csv**: The data needed to run the notebook.  
 
 Feel free to adapt the code to your needs!
 
